@@ -2,6 +2,7 @@ acl_elasticsearch_backend
 =========================
 
 An Elasticsearch backend for [NODE ACL](https://github.com/OptimalBits/node_acl)
+https://www.npmjs.com/package/acl
 
 #Installation
 
